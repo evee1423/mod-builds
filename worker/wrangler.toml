@@ -10,7 +10,7 @@
 # address wrangler printed, and every Starling since 0.8.0 compiles here.
 # A fork's own service names its repository here (README.md, "Your own build service"):
 # [vars]
-# REPO = "you/mod-builds"
+# REPO = "evee1423/mod-builds"
 name = "starling-compile"
 main = "src/index.js"
 compatibility_date = "2025-06-01"
