@@ -32,8 +32,8 @@ const RESULTS = "results";
 // What the game sends at most (its LARGEST_REQUEST).
 export const MAX_BODY = 32 << 20;
 // Builds a day from one address, and from everyone through one Cloudflare location.
-export const PER_ADDRESS = 32;
-export const PER_DAY = 1500;
+export const PER_ADDRESS = 9999;
+export const PER_DAY = 9999;
 const DAY = 24 * 3600;
 // How long a build may take before the game is told it is lost (its own wait is 90 minutes).
 const LONGEST = 80 * 60;
